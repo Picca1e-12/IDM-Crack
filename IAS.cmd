@@ -8,10 +8,8 @@
 ::
 ::   IDM Activation Script (IAS)
 ::
-::   Homepages: https://github.com/lstprjct/IDM-Activation-Script
-::              https://t.me/ModByAndileNkosi/5
-::
-::       Telegram: @Stripe_op
+::   Homepages: https://github.com/Picca1e-12/IDM-Crack/
+::	 W/A : +27633252608
 ::
 ::============================================================================
 
@@ -913,3 +911,4 @@ exit /b
 
 ::========================================================================================================================================
 :: Leave empty line below
+
